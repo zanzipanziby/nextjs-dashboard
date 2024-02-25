@@ -9,7 +9,7 @@ import {
   LatestInvoicesSkeleton,
   RevenueChartSkeleton,
 } from '@/app/ui/skeletons';
-
+// feat: chapter-10 Partial Prerendering (Optional)
 export default async function Page() {
   return (
     <main>
